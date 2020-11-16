@@ -7,4 +7,4 @@ My gulp-assembly includes:
 - processing fonts(converting files to .woff and .woff2, creating a separate file fonts.scss which will store the name of the font, weight, etc., which is then applied together with the mixin from style.scss and creates a font-face without my participation for speed of work)
 - task for fonts with extension .otf2ttf, converting this fonts to .ttf;
 - task for svg sprite;
-- IMPORTANT!!! // Anyone who has problems with the WEBPCSS plugin needs to install converter with the command - npm install webp-converter@2.2.3 --save-dev
+- IMPORTANT!!! // Anyone who has problems with the WEBPCSS plugin needs to install converter with the command - npm install webp-converter@2.2.3 --save-exact
